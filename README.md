@@ -13,11 +13,11 @@
 
 ## Projects
 
-- 🎵 **[spleeve](https://github.com/daniticau/spleeve)**: Tag, normalize, and export MP3s for Spotify local files - runs entirely in the browser
-- 🍽️ **[tastebud](https://github.com/daniticau/tastebud)**: Crowd-sourced food recommendations served as an MCP server
-- 🎙️ **[whisperer](https://github.com/daniticau/whisperer)**: Desktop speech-to-text with faster-whisper, searchable history, and post-processing pipeline
-- 🧠 **[neural_net_playground](https://github.com/daniticau/neural_net_playground)**: Interactive drag-and-drop neural network builder with real-time training visualization
-- 🔍 **[verifis](https://github.com/daniticau/verifis)**: Chrome extension for AI-powered fact-checking and explanations via Gemini
+- 🎵 **[spleeve](https://github.com/daniticau/spleeve)**: tag, normalize, and export MP3s for Spotify local files - runs entirely in the browser
+- 🍽️ **[tastebud](https://github.com/daniticau/tastebud)**: crowd-sourced food recommendations served as an MCP server
+- 🎙️ **[whisperer](https://github.com/daniticau/whisperer)**: desktop speech-to-text with faster-whisper, searchable history, and post-processing pipeline
+- 🧠 **[neural_net_playground](https://github.com/daniticau/neural_net_playground)**: interactive drag-and-drop neural network builder with real-time training visualization
+- 🔍 **[verifis](https://github.com/daniticau/verifis)**: chrome extension for AI-powered fact-checking and explanations via Gemini
 
 ## Contact
 

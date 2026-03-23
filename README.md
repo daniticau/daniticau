@@ -1,6 +1,6 @@
 # Hi, I'm Dani
 
-**la jolla and santa clara** | **ce @ ucsd** | **ai engineer**
+**bay area & san diego** | **ce @ ucsd** | **ai engineer**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)

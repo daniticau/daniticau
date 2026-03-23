@@ -1,6 +1,6 @@
-# Hi, I'm Daniel 👋
+# hi, i'm dani
 
-📍 **San Diego** | 🧮 **CE @ UCSD** | 🤖 **AI Engineer**
+**la jolla and santa clara** | **ce @ ucsd** | **ai engineer**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -11,17 +11,15 @@
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-> Building at the intersection of edtech, prediction markets, and multi-agent systems. Interested in knowledge graphs, mastery tracking, and making AI useful for learning.
-
 ## Projects
 
-- 🧠 **[Neural Net Playground](https://github.com/daniticau/neural_net_playground)** — Interactive drag-and-drop neural network builder with real-time training visualization
-- 🎙️ **[Whisperer](https://github.com/daniticau/whisperer)** — Desktop speech-to-text with faster-whisper, searchable history, and post-processing pipeline
-- 🔍 **[Verifis](https://github.com/daniticau/verifis)** — Chrome extension for AI-powered fact-checking and explanations via Gemini
-- 🍽️ **[Tastebud](https://github.com/daniticau/tastebud)** — Crowd-sourced food recommendations served as an MCP server
-- 🎵 **[Spleeve](https://github.com/daniticau/spleeve)** — Tag, normalize, and export MP3s for Spotify local files — runs entirely in the browser
+- **[spleeve](https://github.com/daniticau/spleeve)**: Tag, normalize, and export MP3s for Spotify local files - runs entirely in the browser
+- **[tastebud](https://github.com/daniticau/tastebud)**: Crowd-sourced food recommendations served as an MCP server
+- **[whisperer](https://github.com/daniticau/whisperer)**: Desktop speech-to-text with faster-whisper, searchable history, and post-processing pipeline
+- **[neural_net_playground](https://github.com/daniticau/neural_net_playground)**: Interactive drag-and-drop neural network builder with real-time training visualization
+- **[verifis](https://github.com/daniticau/verifis)**: Chrome extension for AI-powered fact-checking and explanations via Gemini
 
-## Connect
+## Contact
 
 [![Email](https://img.shields.io/badge/-daniticau@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:daniticau@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Daniel_Ticau-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielticau)

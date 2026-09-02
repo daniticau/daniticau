@@ -1,25 +1,19 @@
-# Hi, I'm Dani
+# Daniel Ticau
 
-**bay area & san diego** | **math-cs @ ucsd** | **ai engineer**
+**bay area & san diego** | **math-cs @ ucsd**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-## Projects
-
-- 🎵 **[spleeve](https://github.com/daniticau/spleeve)**: tag, normalize, and export MP3s for Spotify local files - runs entirely in the browser
-- 🍽️ **[tastebud](https://github.com/daniticau/tastebud)**: crowd-sourced food recommendations served as an MCP server
-- 🎙️ **[whisperer](https://github.com/daniticau/whisperer)**: desktop speech-to-text with faster-whisper, searchable history, and post-processing pipeline
-- 🧠 **[neural_net_playground](https://github.com/daniticau/neural_net_playground)**: interactive drag-and-drop neural network builder with real-time training visualization
-- 🔍 **[verifis](https://github.com/daniticau/verifis)**: chrome extension for AI-powered fact-checking and explanations via Gemini
-
-## Contact
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-6E56CF?style=flat-square&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 
 [![Email](https://img.shields.io/badge/-daniticau@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:daniticau@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-in/danielticau-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielticau)
